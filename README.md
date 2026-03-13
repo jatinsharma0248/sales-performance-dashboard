@@ -9,6 +9,8 @@ Power BI dashboard analyzing sales performance, customer behavior, and product p
 This project analyzes sales data to identify key business insights such as revenue trends, customer purchasing behavior, and product performance.  
 The dashboard enables decision-makers to explore sales performance through interactive visualizations and drill-through analysis.
 
+![Sales Dashboard](images/Home.png)
+
 ---
 
 ## Tools Used
